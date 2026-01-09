@@ -8,7 +8,7 @@
  https://gustavo-menezes-portfolio.com
  
  ## ⚙️Linguagens: 
-<img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e2508429-b488-428b-8f0e-3e79eb86c0de" />"/>
+<img src="<img width="32" height="512" alt="image" src="https://github.com/user-attachments/assets/e2508429-b488-428b-8f0e-3e79eb86c0de" />"/>
 
 ## 🛠️Banco de dados:
 
