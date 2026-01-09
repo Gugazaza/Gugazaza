@@ -8,7 +8,7 @@
  https://gustavo-menezes-portfolio.com
  
  ## ⚙️Linguagens: 
-<img src="html.png"/>
+<img src="Download/html.png"/>
 
 ## 🛠️Banco de dados:
 
