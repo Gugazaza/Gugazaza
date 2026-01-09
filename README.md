@@ -5,7 +5,7 @@
  Estou aprendendo a desenvolver sistemas, aprendendo linguagens de programação com base em conhecimentos de cursos
  e em busca de conhecimento e crescimento constantes, desde novo atuo na área de tecnologia e tenho experiências em
  bancos de dados, C#, HTML e CSS. Portifolio:
- https://gustavo-menezes-portfolio.com
+https://gustavo-menezes-portfolio.com](https://gugazaza.github.io/Portifolio-Projeto/
  
  ## ⚙️Linguagens: 
 <img width="32" height="32" alt="C" src="https://github.com/user-attachments/assets/e2508429-b488-428b-8f0e-3e79eb86c0de" />
