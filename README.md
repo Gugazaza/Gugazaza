@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá meu nome é Gustavo Menezes de Oliveria
+🎓Estudante de Tecnologia | 📚Aprendendo programação | 🚀Apaixonado por tecnologias e sistemas.
+linguagens e linguagens de marcação: 
+-- C#
+-- HTML
+-- CSS
 
-<!--
-**Gugazaza/Gugazaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é meu portfólio pessoal, desenvolvido para apresentar
+meus projetos, habilidades e formas de contato.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias usadas
+- HTML5
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Acesse o site
+https://gustavo-menezes-portfolio.com
+
+## 📌 Status
+🚀 Projeto em desenvolvimento
