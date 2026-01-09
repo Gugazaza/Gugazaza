@@ -8,7 +8,7 @@
  https://gustavo-menezes-portfolio.com
  
  ## ⚙️Linguagens: 
-<img src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5E4En_QXYl6O-y2s0RlW9_Xq4KTSuGutlw&s)"/>
+<img src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5E4En_QXYl6O-y2s0RlW9_Xq4KTSuGutlw&s"/>
 
 
 
