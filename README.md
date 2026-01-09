@@ -8,7 +8,7 @@
  https://gustavo-menezes-portfolio.com
  
  ## ⚙️Linguagens: 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3531324244343f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/1741ad31-05cf-4b3f-9bf1-da3434b05634)
+<img src="https://img.icons8.com/ios-filled/32/ffffff/HTML.png"/>
 
 
 
