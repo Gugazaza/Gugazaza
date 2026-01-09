@@ -4,7 +4,8 @@
  ## 🧠Sobre mim
  Estou aprendendo a desenvolver sistemas, aprendendo linguagens de programação com base em conhecimentos de cursos
  e em busca de conhecimento e crescimento constantes, desde novo atuo na área de tecnologia e tenho experiências em
- bancos de dados, C#, HTML e CSS. Portifolio:
+ bancos de dados, C#, HTML e CSS. 
+ Portifolio:
 https://gugazaza.github.io/portifolio2/
  
  ## ⚙️Linguagens: 
