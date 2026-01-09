@@ -28,7 +28,7 @@ meus projetos, habilidades e formas de contato.
   <a href="https://www.instagram.com/gugaza._/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/32/ffffff/instagram-new.png"/>
   </a>
-  <a href="https:[https://www.linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/gustavo-menezes-b4b1183a4/)" target="_blank">
+  <a href="https:(https://www.linkedin.com/in/gustavo-menezes-b4b1183a4/)" target="_blank">
     <img src="https://img.icons8.com/ios-filled/32/ffffff/linkedin.png"/>
   </a>
 </p>
