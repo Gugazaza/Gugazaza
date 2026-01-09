@@ -14,6 +14,3 @@ meus projetos, habilidades e formas de contato.
 
 ## 🌐 Acesse o site
 https://gustavo-menezes-portfolio.com
-
-## 📌 Status
-🚀 Projeto em desenvolvimento
