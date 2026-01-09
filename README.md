@@ -12,14 +12,12 @@
 
 ## 🌐Web:
 <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/db5131c3-b1de-42e9-96ad-02e5b820a992" />
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/a06c0c3c-7f71-4a2e-a304-a0e9ce72b7fb" />
 
 ## 🛠️Banco de dados:
 <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/56f7df90-539d-4073-86fa-3543b2b6bf86" />
-<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/a06c0c3c-7f71-4a2e-a304-a0e9ce72b7fb" />
-
 
 ## 📞Contatos:
-
 <p align="left">
   <a href="https://www.instagram.com/gugaza._/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/32/ffffff/instagram-new.png"/>
