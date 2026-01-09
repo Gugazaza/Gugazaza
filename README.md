@@ -8,19 +8,12 @@
  https://gustavo-menezes-portfolio.com
  
  ## ⚙️Linguagens: 
-<img src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5E4En_QXYl6O-y2s0RlW9_Xq4KTSuGutlw&s"/>
+<img src="html.png"/>
 
+## 🛠️Banco de dados:
 
 
 -- HTML
-
-## 💼Portifólio:
-Este é meu portfólio pessoal, desenvolvido para apresentar
-meus projetos, habilidades e formas de contato.
-
-## 🛠️ Tecnologias usadas:
-- HTML5
-- CSS
 
 ## 🌐 Contatos:
 
